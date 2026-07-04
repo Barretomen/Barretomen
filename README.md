@@ -1,40 +1,68 @@
-## 👨🏼‍💻 Sobre Mim:
+<div align="center">
 
-**`Desenvolvedor autodidata | Automação e Ferramentas Internas`**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=jo%C3%A3o+barreto;dev+autodidata;javascript+%7C+node.js+%7C+electron" alt="João Barreto" />
 
-Me chamo João Barreto e sou desenvolvedor autodidata. Trabalho com Customer Support na **Gopuff**, onde descobri minha paixão por programação criando ferramentas que facilitam o dia a dia do time — o que começou como curiosidade virou projetos de verdade rodando em produção.
+<samp>construindo ferramentas que resolvem problemas reais</samp>
 
-Hoje desenvolvo e mantenho ferramentas internas como uma **extensão do Chrome** para automação de fluxos no Sprinklr (ACW/OQI) e um **assistente de comandos em Electron** que integra várias plataformas usadas pelo suporte (Slack, Braze, APIs internas). No caminho, aprendi na prática sobre modularização de código, bundlers (esbuild), integração com APIs REST e engenharia reversa de sistemas web.
+</div>
 
-Além do trabalho, gosto de projetos pessoais que me desafiam — como scripts em **Lua** para automação de jogos, onde exploro navegação em grafos e análise de mapas.
+<br>
 
-Meu foco atual é me aprofundar em **JavaScript** e **Node.js**, escrevendo código cada vez mais organizado, modular e testável.
+## <samp>~/sobre-mim</samp>
 
-## 🛠️ Linguagens e Tecnologias
+```javascript
+const joao = {
+  nome: "João Barreto",
+  base: "Brasil 🇧🇷",
+  trabalho: "Customer Support @ Gopuff",
+  jornada: "autodidata — aprendi programando ferramentas pro meu time",
+
+  construindo: [
+    "extensão Chrome para automação de fluxos (Sprinklr ACW/OQI)",
+    "assistente de comandos em Electron integrando Slack, Braze e APIs internas",
+  ],
+
+  aprendendo: ["JavaScript avançado", "Node.js", "arquitetura modular"],
+  divertindo: "scripts em Lua para automação de jogos 🎮",
+};
+```
+
+O que começou como curiosidade virou código rodando em produção todos os dias.
+Hoje desenvolvo e mantenho ferramentas internas de suporte — no caminho, aprendi
+na prática sobre **bundlers**, **integração com APIs REST**, **engenharia reversa
+de sistemas web** e **modularização de bases de código grandes**.
+
+## <samp>~/stack</samp>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,electron,html,css,git,github,lua,powershell,windows,vscode&perline=7" alt="Minhas Skills" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,electron,html,css,git,github,lua,powershell,vscode,windows&theme=dark&perline=11" alt="stack" />
 </p>
 
-## 🌐 Como você pode me encontrar:
+## <samp>~/stats</samp>
 
 <p align="left">
-  <a href="mailto:imjoaobarreto@gmail.com" style="text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="35" height="35" style="vertical-align: middle;" alt="Gmail" />
-    <span style="vertical-align: middle;"><b>E-mail</b></span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Barretomen&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&locale=pt-br" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barretomen&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&locale=pt-br" alt="linguagens" />
+</p>
 
-  <!-- Troque "seu-user" abaixo pelo seu usuário real do LinkedIn -->
-  <a href="https://linkedin.com/in/seu-user" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="35" height="35" style="vertical-align: middle;" alt="LinkedIn" />
-    <span style="vertical-align: middle;"><b>LinkedIn</b></span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+## <samp>~/contato</samp>
 
-  <!-- Troque "seu-user" abaixo pelo seu usuário real do Instagram -->
-  <a href="https://www.instagram.com/seu-user" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="35" height="35" style="vertical-align: middle;" alt="Instagram" />
-    <span style="vertical-align: middle;"><b>Instagram</b></span>
+<p align="left">
+  <a href="mailto:imjoaobarreto@gmail.com">
+    <img src="https://img.shields.io/badge/e--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail" />
+  </a>
+  <!-- Troque "seu-user" pelo seu usuário real do LinkedIn -->
+  <a href="https://linkedin.com/in/seu-user" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <!-- Troque "seu-user" pelo seu usuário real do Instagram -->
+  <a href="https://www.instagram.com/seu-user" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
 </p>
+
+<br>
+
+<div align="center">
+  <samp>// obrigado pela visita 👋</samp>
+</div>
