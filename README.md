@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=joao+barreto;self-taught+developer;javascript+%7C+node.js+%7C+electron" alt="João Barreto" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C4C4C4&center=true&vCenter=true&width=440&lines=joao+barreto;self-taught+developer;javascript+%7C+node.js+%7C+electron" alt="João Barreto" />
 
 <samp>building tools that solve real problems</samp>
 
@@ -40,30 +40,16 @@ web systems** and **modularizing large codebases**.
 
 ## <samp>~/stats</samp>
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Barretomen&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Barretomen&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top languages" />
-</p>
+[![Estatísticas públicas do GitHub](assets/github-stats.svg)](https://github.com/Barretomen?tab=repositories)
 
-<p align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=Barretomen&theme=github-dark-blue&hide_border=true&background=00000000" alt="Streak" />
-</p>
+<sub>Dados públicos da API do GitHub, atualizados diariamente. Linguagens contabilizadas pela linguagem principal de cada repositório próprio. Atividade e repositórios privados não entram nestes indicadores.</sub>
 
 ## <samp>~/contact</samp>
 
-<p align="left">
-  <a href="mailto:imjoaobarreto@gmail.com">
-    <img src="https://img.shields.io/badge/e--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail" />
-  </a>
-  <!-- Replace "your-user" below with your real LinkedIn username -->
-  <a href="https://linkedin.com/in/your-user" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <!-- Replace "your-user" below with your real Instagram username -->
-  <a href="https://www.instagram.com/your-user" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-  </a>
-</p>
+- **Email:** [imjoaobarreto@gmail.com](mailto:imjoaobarreto@gmail.com)
+- **LinkedIn:** [linkedin.com/in/barretomendes](https://www.linkedin.com/in/barretomendes/)
+- **Instagram:** [@jaobm_](https://www.instagram.com/jaobm_/)
+- **Portfólio:** [barretomen.github.io](https://barretomen.github.io/)
 
 <br>
 
